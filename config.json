@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcelete",
+        "uuid": 10107656,
+        "checksum": "30vntb"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
